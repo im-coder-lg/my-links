@@ -1,31 +1,21 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Backend Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "im-coder-lg",
+  "description": "a kid who codes(!!! on school duty !!!)",
+  "image_url": "https://avatars.githubusercontent.com/u/76845820?v=4",
   "links": [
     {
-      "title": "Instagram",
-      "url": "https://bit.ly/3LaBWc2",
-      "icon": "instagram"
-    },
-    {
       "title": "Twitter",
-      "url": "http://bit.ly/3CCjbJk",
+      "url": "https://dub.sh/hahatrickrolled",
       "icon": "twitter"
     },
     {
-      "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
-      "icon": "linkedin"
-    },
-    {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://dub.sh/kcZsQ4i",
       "icon": "github"
     },
     {
       "title": "GitLab",
-      "url": "http://bit.ly/3Cejhqr",
+      "url": "https://dub.sh/V0mpOOH",
       "icon": "gitlab"
     }
   ]
