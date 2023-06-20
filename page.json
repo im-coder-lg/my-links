@@ -1,0 +1,35 @@
+{
+  "name": "Melih Safa Çelik",
+  "description": "Backend Developer @PoiLabs",
+  "image_url": "https://media.licdn.com/dms/image/C4D03AQEya6JijHLiRw/profile-displayphoto-shrink_200_200/0/1629213708821?e=1677715200&v=beta&t=SH4KE7389YzPmqVdLg8rzWAyONYef0-FWyfy5nombD0",
+  "links": [
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/melihsafacelik/",
+      "icon": "linkedin"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/MelihCelik00",
+      "icon": "github"
+    },
+    {
+      "title": "Stackoverflow",
+      "url": "https://stackoverflow.com/users/10926848/melih-safa-celik"
+    },
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/melihscelik23",
+      "icon": "instagram"
+    },
+    {
+      "title": "Superpeer",
+      "url": "https://superpeer.com/melihsafacelik"
+    },
+    {
+      "title": "Spotify",
+      "url": "https://open.spotify.com/user/11184457630?si=ece7932cfdc44af3",
+      "icon": "spotify"
+    }
+  ]
+}
