@@ -1,0 +1,41 @@
+{
+  "name": "Nuh Koca",
+  "description": "Software Engineer @TradeRepublic",
+  "image_url": "https://raw.githubusercontent.com/nuhkoca/my-links/main/profile-picture.jpg",
+  "links": [
+    {
+      "title": "LinkedIn",
+      "url": "https://bit.ly/3PPGbtP",
+      "icon": "linkedin"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://bit.ly/3jy6nNG",
+      "icon": "github"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://bit.ly/3vdWgQD",
+      "icon": "twitter"
+    },
+    {
+      "title": "Instagram",
+      "url": "https://bit.ly/3hN1X51",
+      "icon": "instagram"
+    },
+    {
+      "title": "Medium",
+      "url": "https://bit.ly/3WHbDN1",
+      "icon": "medium"
+    },
+    {
+      "title": "Stackoverflow",
+      "url": "https://bit.ly/3HYHODD"
+    },
+    {
+      "title": "Spotify",
+      "url": "https://bit.ly/3vi35AI",
+      "icon": "spotify"
+    }
+  ]
+}
