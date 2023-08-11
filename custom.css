@@ -1,10 +1,10 @@
 
 .ld-custom-name {
-    color: white;
+    color: black;
 }
 
 .ld-custom-name:visited {
-    color: white;
+    color: black;
 }
 
 .ld-custom-button-container {
@@ -37,5 +37,5 @@
 }
 
 .ld-custom-background-layer {
-    background-color: #000;
+    background-color: #fff;
 }
